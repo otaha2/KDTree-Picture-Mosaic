@@ -30,6 +30,16 @@ will produce the output you see as NatureMosaic.png from all of the png photos i
 Try it out with your own photos and Enjoy!
 
 
+Note: 
+
+*If you are on MacOS/Linux Operating System, I would recommend installing ImageMagick and using it to convert all images to png as well as resize the images to be smaller. Below are the commands to do that, assuming you have ImageMagick installed*
+
+Run:
+
+magick mogrify -format png *.jpg (or whatever format the photos are in)... (will convert all jpg images to png)
+
+magick mogrify -resize 50% *.png (will resize all png images in the folder to 50%)
+
 
 *This was made as a class MP for CS225 at UIUC. Not all of the code shown was made by the students. In particular the student implemented the KDTree class and the mapTiles class and then used the PNG templatized class provided by the CS225 Course Staff*
 
