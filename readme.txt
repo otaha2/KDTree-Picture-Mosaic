@@ -11,8 +11,6 @@ Note:
 
 commands to run:
 
-make
-
 ./mp5 background_image.png [tile_directory/] [number of tiles] [pixels per tile] [output_image.png]
 
 Note:
@@ -24,8 +22,6 @@ Note:
 //output_image.png is the name you wish to call your outputed image. This is the final mosaic outputted by the program
 
 For Example Running:
-
-make
 
 ./mp5 Nature.png mp5_pngs 150 25 NatureMosaic.png
 
