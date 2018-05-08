@@ -27,7 +27,7 @@ For Example Running:
 
 make
 
-./mp5 Nature.png mp5_pngs 75 25 NatureMosaic.png
+./mp5 Nature.png mp5_pngs 150 25 NatureMosaic.png
 
 will produce the output you see as NatureMosaic.png from all of the png photos in the mp5_pngs folder
 
