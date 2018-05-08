@@ -34,3 +34,9 @@ will produce the output you see as NatureMosaic.png from all of the png photos i
 Try it out with your own photos and Enjoy!
 
 
+
+*This was made as a class MP for CS225 at UIUC. Not all of the code shown was made by the students. In particular the
+student implemented the KDTree class and the mapTiles class and then used the PNG templatized class provided by the CS225
+Course Staff*
+
+
